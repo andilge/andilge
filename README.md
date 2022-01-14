@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andilge
+- 👋 Hi, I’m [Andi Egli](@andilge)
 - 👀 I’m interested in electronics and home automations. I'm especially fascinated in controlling lights
 - 🌱 I’m currently learning a lot of things, as always. I've been diving deeper into ESPHome the last few years and have recently found a new hobby: design pcbs
 - 💞️ I’m looking to collaborate on whatever wakes my interest
